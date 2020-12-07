@@ -43,6 +43,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 <p align="center">
 <a href="https://arganarazalvaro.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-arganarazalvaro.netlify.app/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/alvaro-arganaraz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alvaro%20E.%20Arganaraz-blue?style=flat-square&logo=linkedin"></a>
