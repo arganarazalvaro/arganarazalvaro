@@ -24,7 +24,6 @@
   ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
   ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
   ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=json)
-  ![API Rest](https://img.shields.io/badge/-Api Rest-333333?style=flat&logo=api-rest)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
