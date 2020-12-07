@@ -20,8 +20,11 @@
   ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
-  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=Mongoose)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+  ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
+  ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=json)
+  ![API Rest](https://img.shields.io/badge/-Api Rest-333333?style=flat&logo=api)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
