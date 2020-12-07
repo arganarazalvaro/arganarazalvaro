@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/arganarazalvaro/arganarazalvaro/master/assets/Alvaro%20Arganaraz%20Banner.png">
+<img src="https://avatars3.githubusercontent.com/u/58991309?s=460&u=4ddf1a98f2de2807850edd2958d20b2e769a2bc2&v=4">
 
 <h2> Hey there! I'm Alvaro.</h2>
 
