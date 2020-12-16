@@ -5,7 +5,7 @@
 - 💼 &nbsp; Full Stack Developer.
 - 🎓 &nbsp; Industrial Engineer, specialized in Managerial Engineering.
 - 🌱 &nbsp; I´m from Córdoba, Argentina.
-- 🤔 &nbsp; Learning more about Quality Assurance (Back-End)
+- 🤔 &nbsp; Learning more about Quality Assurance (Back-End).
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
