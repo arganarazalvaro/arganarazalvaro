@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Full Stack Developer.
-- 🎓 &nbsp; Industrial Engineer, specialized in Managerial Engineering.
-- 🌱 &nbsp; I´m from Córdoba, Argentina.
-- 🤔 &nbsp; Learning more about Quality Assurance (Back-End).
+- 💼 &nbsp; Full Stack Developer
+- 🎓 &nbsp; Industrial Engineer, specialized in Managerial Engineering
+- 🌱 &nbsp; I´m from Córdoba, Argentina
+- 🤔 &nbsp; Learning more about Quality Assurance (Back-End)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
